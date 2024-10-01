@@ -1,6 +1,9 @@
 See README.pdf
 
-## Steps
+## Whole architecture
+just see [main5.ipynb](main5.ipynb) is enough.。
+
+## Below is about Trajectory Part 
 
 1. modify config.yaml to write down your openai apikey sk-...
 2. define the trajectory description in : `/Users/huangziheng/PycharmProjects/final_LLM_enhance/prompt/trajectories.txt`
