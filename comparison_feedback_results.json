@@ -1,0 +1,27 @@
+[
+  {
+    "body part": "spine",
+    "issue": "The man's spine is described as slightly curved forward in description1, whereas description2 states that the spine moves in a rhythmic motion.",
+    "editing command": "The man's spine moves in a rhythmic motion."
+  },
+  {
+    "body part": "left arm",
+    "issue": "The man's left arm is described as straightened out and slightly away from his body in description1, but it is actually bent at the elbow and held close to his body in description2.",
+    "editing command": "The man's left arm is bent at the elbow and held close to his body."
+  },
+  {
+    "body part": "right arm",
+    "issue": "The man's right arm is described as moving in a sharp back-and-forth motion in description1, while description2 specifies that it moves in a circular motion.",
+    "editing command": "The man's right arm moves in a circular motion."
+  },
+  {
+    "body part": "left leg",
+    "issue": "The man's left leg is described as straight and does not bend in description1, but in description2, it states that the left leg is bent at the knee.",
+    "editing command": "The man's left leg is bent at the knee."
+  },
+  {
+    "body part": "right leg",
+    "issue": "In description1, the right leg is stated to be slightly bent but not fully, while description2 indicates that it is bent at the knee.",
+    "editing command": "The man's right leg is bent at the knee."
+  }
+]

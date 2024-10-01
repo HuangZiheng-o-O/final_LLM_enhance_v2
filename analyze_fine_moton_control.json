@@ -1,0 +1,132 @@
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm is extended outward at shoulder height."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm is raised with the elbow bent and aiming forward, as if holding a gun."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg is planted firmly on the ground, providing stability."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg is bent at the knee, positioned slightly behind the body."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine is rotated to align with the direction of the turn."
+  }
+]
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm extends forward with a straight punch, the fist tightly clenched."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm follows with a swift upward block, the elbow bent at 90 degrees and the palm facing outward."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg is bent at the knee, with the foot positioned firmly on the ground for support."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg is momentarily lifted off the ground, poised to deliver a kick."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine maintains an upright posture, slightly flexing forward to engage the core during movements."
+  }
+]
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm is held at a 90-degree angle, bracing the body during the spin."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm extends outward, aiding in the momentum of the spin."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg is bent at the knee as he shifts weight onto it."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg is raised high and extended outward during the kick."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine rotates smoothly, facilitating the execution of the spinning kick."
+  }
+]
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm remains at his side."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm is raised at shoulder height, with the index finger extended forward."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg steps slightly back, stabilizing his stance."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg pivots on the back foot, completing the turn."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine rotates sharply to the right."
+  }
+]
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm is extended forward in a guard position with the elbow slightly bent."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm is positioned close to the body, ready to parry, with the elbow bent at a 90-degree angle."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg is lifted and bent at the knee, ready to deliver a kick."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg is extended forward, exhibiting a powerful kick from the hip."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine is slightly arched forward, emphasizing readiness and balance."
+  }
+]
+[
+  {
+    "body part": "left arm",
+    "description": "The man's left arm is extended outward to the side, slightly bent at the elbow."
+  },
+  {
+    "body part": "right arm",
+    "description": "The man's right arm is raised above his head, bent at the elbow with the forearm parallel to the ground."
+  },
+  {
+    "body part": "left leg",
+    "description": "The man's left leg is pivoting on the toes, supporting his weight as he prepares for the kick."
+  },
+  {
+    "body part": "right leg",
+    "description": "The man's right leg is lifted and bent at the knee, positioned to execute the kick."
+  },
+  {
+    "body part": "spine",
+    "description": "The man's spine is rotating smoothly, aligning with the movement of his hips."
+  }
+]
